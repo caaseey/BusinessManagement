@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ingresos>
+  <ingreso tipo="Publicidad">
+    <fecha>2025-01-15</fecha>
+    <monto>120.50</monto>
+    <descripcion>Google AdSense Enero</descripcion>
+    <empresa>Google</empresa>
+    <concepto>Click generado por patrocinio/promoción</concepto>
+  </ingreso>
+  <ingreso tipo="Publicidad">
+    <fecha>2025-02-15</fecha>
+    <monto>145.00</monto>
+    <descripcion>Google AdSense Febrero</descripcion>
+    <empresa>Google</empresa>
+    <concepto>Click generado por patrocinio/promoción</concepto>
+  </ingreso>
+  <ingreso tipo="Ventas">
+    <fecha>2025-01-18</fecha>
+    <monto>340.00</monto>
+    <descripcion>Venta curso online</descripcion>
+    <empresa>EduCourses</empresa>
+    <concepto>Venta de entrada o producto</concepto>
+  </ingreso>
+  <ingreso tipo="Ventas">
+    <fecha>2025-02-10</fecha>
+    <monto>280.00</monto>
+    <descripcion>Venta eBook</descripcion>
+    <empresa>BookStore</empresa>
+    <concepto>Venta de entrada o producto</concepto>
+  </ingreso>
+  <ingreso tipo="Afiliación">
+    <fecha>2025-01-20</fecha>
+    <monto>75.00</monto>
+    <descripcion>Amazon comisión</descripcion>
+    <empresa>Amazon</empresa>
+    <concepto>Comisión por afiliación</concepto>
+  </ingreso>
+  <ingreso tipo="Ventas">
+    <fecha>2025-03-05</fecha>
+    <monto>150.00</monto>
+    <descripcion>Venta entradas concierto pop</descripcion>
+    <empresa>TicketsNow</empresa>
+    <concepto>Venta de entrada o producto</concepto>
+  </ingreso>
+  <ingreso tipo="Publicidad">
+    <fecha>2025-03-03</fecha>
+    <monto>200.00</monto>
+    <descripcion>Banner promocional de artista invitado</descripcion>
+    <empresa>MusicAds</empresa>
+    <concepto>Click generado por patrocinio/promoción</concepto>
+  </ingreso>
+
+  <!-- Muchísimos ingresos por conciertos populares -->
+  <ingreso tipo="Ventas">
+    <fecha>2025-06-01</fecha>
+    <monto>1200.00</monto>
+    <descripcion>Venta entradas concierto SZA - Barcelona</descripcion>
+    <empresa>LiveNation</empresa>
+    <concepto>Venta de entrada o producto</concepto>
+  </ingreso>
+  <ingreso tipo="Ventas">
+    <fecha>2025-06-02</fecha>
+    <monto>1100.00</monto>
+    <descripcion>Venta entradas concierto Travis Scott - Madrid</descripcion>
+    <empresa>LiveNation</empresa>
+    <concepto>Venta de entrada o producto</concepto>
+  </ingreso>
+  <ingreso tipo="Ventas">
+    <fecha>2025-06-03</fecha>
+    <monto>1150.00</monto>
+    <descripcion>Venta entradas concierto Drake - Valencia</descripcion>
+    <empresa>Ticketmaster</empresa>
+    <concepto>Venta de entrada o producto</concepto>
+  </ingreso>
+  <ingreso tipo="Ventas">
+    <fecha>2025-06-04</fecha>
+    <monto>1300.00</monto>
+    <descripcion>Venta entradas concierto Kendrick Lamar - Sevilla</descripcion>
+    <empresa>Ticketmaster</empresa>
+    <concepto>Venta de entrada o producto</concepto>
+  </ingreso>
+  <ingreso tipo="Ventas">
+    <fecha>2025-06-05</fecha>
+    <monto>1250.00</monto>
+    <descripcion>Venta entradas concierto Doja Cat - Bilbao</descripcion>
+    <empresa>TicketsNow</empresa>
+    <concepto>Venta de entrada o producto</concepto>
+  </ingreso>
+  <ingreso tipo="Ventas">
+    <fecha>2025-06-06</fecha>
+    <monto>1350.00</monto>
+    <descripcion>Venta entradas concierto Post Malone - Málaga</descripcion>
+    <empresa>TicketsNow</empresa>
+    <concepto>Venta de entrada o producto</concepto>
+  </ingreso>
+  <ingreso tipo="Ventas">
+    <fecha>2025-06-07</fecha>
+    <monto>1400.00</monto>
+    <descripcion>Venta entradas concierto J. Cole - Granada</descripcion>
+    <empresa>LiveNation</empresa>
+    <concepto>Venta de entrada o producto</concepto>
+  </ingreso>
+  <ingreso tipo="Ventas">
+    <fecha>2025-06-08</fecha>
+    <monto>1450.00</monto>
+    <descripcion>Venta entradas concierto Megan Thee Stallion - Valencia</descripcion>
+    <empresa>Ticketmaster</empresa>
+    <concepto>Venta de entrada o producto</concepto>
+  </ingreso>
+  <ingreso tipo="Ventas">
+    <fecha>2025-06-09</fecha>
+    <monto>1500.00</monto>
+    <descripcion>Venta entradas concierto Lil Baby - Madrid</descripcion>
+    <empresa>TicketsNow</empresa>
+    <concepto>Venta de entrada o producto</concepto>
+  </ingreso>
+  <ingreso tipo="Ventas">
+    <fecha>2025-06-10</fecha>
+    <monto>1550.00</monto>
+    <descripcion>Venta entradas concierto Cardi B - Barcelona</descripcion>
+    <empresa>LiveNation</empresa>
+    <concepto>Venta de entrada o producto</concepto>
+  </ingreso>
+
+  <!-- Ingresos por publicidad variados -->
+  <ingreso tipo="Publicidad">
+    <fecha>2025-04-01</fecha>
+    <monto>350.00</monto>
+    <descripcion>Publicidad Spotify - Campaña verano</descripcion>
+    <empresa>Spotify</empresa>
+    <concepto>Click generado por patrocinio/promoción</concepto>
+  </ingreso>
+  <ingreso tipo="Publicidad">
+    <fecha>2025-04-10</fecha>
+    <monto>400.00</monto>
+    <descripcion>Banner promocional tour Travis Scott</descripcion>
+    <empresa>MusicAds</empresa>
+    <concepto>Click generado por patrocinio/promoción</concepto>
+  </ingreso>
+  <ingreso tipo="Publicidad">
+    <fecha>2025-04-15</fecha>
+    <monto>450.00</monto>
+    <descripcion>Anuncio en redes sociales Drake</descripcion>
+    <empresa>SocialBoost</empresa>
+    <concepto>Click generado por patrocinio/promoción</concepto>
+  </ingreso>
+  <ingreso tipo="Publicidad">
+    <fecha>2025-04-20</fecha>
+    <monto>500.00</monto>
+    <descripcion>Campaña Google Ads Kendrick Lamar</descripcion>
+    <empresa>Google</empresa>
+    <concepto>Click generado por patrocinio/promoción</concepto>
+  </ingreso>
+  <ingreso tipo="Publicidad">
+    <fecha>2025-05-01</fecha>
+    <monto>480.00</monto>
+    <descripcion>Publicidad Instagram SZA</descripcion>
+    <empresa>Instagram</empresa>
+    <concepto>Click generado por patrocinio/promoción</concepto>
+  </ingreso>
+  <ingreso tipo="Publicidad">
+    <fecha>2025-05-07</fecha>
+    <monto>460.00</monto>
+    <descripcion>Campaña Facebook Post Malone</descripcion>
+    <empresa>Facebook</empresa>
+    <concepto>Click generado por patrocinio/promoción</concepto>
+  </ingreso>
+  <ingreso tipo="Publicidad">
+    <fecha>2025-05-15</fecha>
+    <monto>430.00</monto>
+    <descripcion>Publicidad TikTok Megan Thee Stallion</descripcion>
+    <empresa>TikTok</empresa>
+    <concepto>Click generado por patrocinio/promoción</concepto>
+  </ingreso>
+
+  <!-- Ingresos por afiliación -->
+  <ingreso tipo="Afiliación">
+    <fecha>2025-04-05</fecha>
+    <monto>85.00</monto>
+    <descripcion>Comisión Amazon afiliados - merch Travis Scott</descripcion>
+    <empresa>Amazon</empresa>
+    <concepto>Comisión por afiliación</concepto>
+  </ingreso>
+  <ingreso tipo="Afiliación">
+    <fecha>2025-04-12</fecha>
+    <monto>90.00</monto>
+    <descripcion>Comisión Spotify afiliados - playlist Drake</descripcion>
+    <empresa>Spotify</empresa>
+    <concepto>Comisión por afiliación</concepto>
+  </ingreso>
+  <ingreso tipo="Afiliación">
+    <fecha>2025-04-18</fecha>
+    <monto>95.00</monto>
+    <descripcion>Comisión venta merch Kendrick Lamar</descripcion>
+    <empresa>MerchStore</empresa>
+    <concepto>Comisión por afiliación</concepto>
+  </ingreso>
+  <ingreso tipo="Afiliación">
+    <fecha>2025-04-25</fecha>
+    <monto>100.00</monto>
+    <descripcion>Comisión afiliación TikTok - videos promocionales</descripcion>
+    <empresa>TikTok</empresa>
+    <concepto>Comisión por afiliación</concepto>
+  </ingreso>
+</ingresos>
